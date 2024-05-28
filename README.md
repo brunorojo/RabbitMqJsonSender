@@ -2,4 +2,4 @@
 
 - Utilize o arquivo config.json para configurar o diretorio e o nome da fila.
 - Configuracao localhost com porta padrão: http://localhost:15672/
-- user/passwd: guest/qguest
+- User/Passwd: guest/guest

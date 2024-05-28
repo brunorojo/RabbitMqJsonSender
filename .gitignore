@@ -5,3 +5,5 @@
 /bin/Debug/net6.0
 /.vs/RabbitMqJsonSender
 /obj
+/bin/Release/net6.0
+/publish

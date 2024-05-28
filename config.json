@@ -1,3 +1,4 @@
 {
-  "JsonDirectory": "C:\\Users\\bruno\\source\\RabbitMqJsonSender\\jsons"
+  "JsonDirectory": "C:\\Users\\bruno\\source\\RabbitMqJsonSender\\jsons",
+  "QueueName": "FILA_JSONS"
 }
